@@ -16,15 +16,12 @@ html {
 }
 
 h1 {
-  .josefin-sans-<uniquifier> {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 400;
     font-style: normal;
     font-size: 2rem;
   }
-
-}
 
 h1 {
   letter-spacing: 1.2em;
